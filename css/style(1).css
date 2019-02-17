@@ -1,0 +1,12 @@
+/* CSS Document */
+*{padding:0;margin:0;}
+a{display:block;text-decoration:none;}
+img{display:block;width:100%;height:100%;}
+ul,li{list-style:none;}
+.banner{width:950px;height:246px;position:relative;margin:100px auto;}
+.box{width:950px;height:246px;}
+.box li{position:absolute;}
+.v{width:125px;height:246px;position:absolute;top:0;opacity:0.5;font-size:50px;font-weight:bold;line-height:246px;text-align:center;color:#FFFFFF;}
+.right{right:0;}
+.left{left:0;}
+
